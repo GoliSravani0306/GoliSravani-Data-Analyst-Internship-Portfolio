@@ -3,6 +3,9 @@
 ## 👋 About
 This repository contains all the tasks completed during my ApexPlanet Data Analytics Internship.
 
+## 🌐 Live Portfolio
+https://golisravani0306.github.io/GoliSravani-Data-Analyst-Internship-Portfolio/
+
 ## 📂 Completed Tasks
 
 ### Task 1 – Data Immersion & Wrangling
